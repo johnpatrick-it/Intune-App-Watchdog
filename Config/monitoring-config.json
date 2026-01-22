@@ -1,0 +1,500 @@
+﻿{
+    "monitoring":  {
+                       "checkIntervalHours":  24,
+                       "maxConcurrentChecks":  5,
+                       "enabled":  true
+                   },
+    "notifications":  {
+                          "teams":  {
+                                        "enabled":  true
+                                    },
+                          "email":  {
+                                        "enabled":  true
+                                    }
+                      },
+    "lastUpdated":  "2026-01-22T18:53:07",
+    "applications":  [
+                         {
+                             "name":  "1Password",
+                             "displayName":  "PH - 1Password",
+                             "currentVersion":  "2025.731.1929.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows universal line-of-business app"
+                         },
+                         {
+                             "name":  "7Zip",
+                             "displayName":  "PH - 7-Zip",
+                             "currentVersion":  "23.01.00.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "8x8Work",
+                             "displayName":  "PH - 8x8 Work",
+                             "currentVersion":  "8.24.2.2",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "AgentRansack",
+                             "displayName":  "PH - Agent Ransack",
+                             "currentVersion":  "9.2.3418.1",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "AgentRansack3536",
+                             "displayName":  "PH - Agent Ransack 3536",
+                             "currentVersion":  "3536",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "AmazonWorkSpaces",
+                             "displayName":  "PH - Amazon WorkSpaces",
+                             "currentVersion":  "5.17.0.4420",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "AWSCLI",
+                             "displayName":  "PH - AWS CLI v2",
+                             "currentVersion":  "2.30.2.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "AWSCommandLineInterfacev2",
+                             "displayName":  "PH - AWS Command Line Interface v2",
+                             "currentVersion":  "2.9.13.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "AWSVPNClient",
+                             "displayName":  "PH - AWS VPN Client",
+                             "currentVersion":  "5.3.1",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "BrowserStackLocal",
+                             "displayName":  "PH - BrowserStackLocal",
+                             "currentVersion":  "3.7.1",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "DBBrowserforSQLite3131",
+                             "displayName":  "PH - DB Browser for SQLite 3.13.1",
+                             "currentVersion":  "3.13.1",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "DellCommandUpdate",
+                             "displayName":  "PH - Dell Command Update",
+                             "currentVersion":  "4.9.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "Docker",
+                             "displayName":  "PH - Docker Desktop",
+                             "currentVersion":  "4.50.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "Git",
+                             "displayName":  "PH - Git",
+                             "currentVersion":  "2.50.1",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "GitHubCLI",
+                             "displayName":  "PH - GitHub CLI",
+                             "currentVersion":  "2.79.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "GitHubDesktop",
+                             "displayName":  "PH - Github Desktop",
+                             "currentVersion":  "3.5.4.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "Chrome",
+                             "displayName":  "PH - Google Chrome",
+                             "currentVersion":  "142.0.7444.163",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "GoogleCloudCLI",
+                             "displayName":  "PH - Google Cloud CLI",
+                             "currentVersion":  "539.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "IvantiSecurityConsoleAgent",
+                             "displayName":  "PH - Ivanti Security Console Agent",
+                             "currentVersion":  "9.6.9369.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "Java17",
+                             "displayName":  "PH - Java 17",
+                             "currentVersion":  "17.0.6.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "Kiro",
+                             "displayName":  "PH - Kiro",
+                             "currentVersion":  "202508110105.02",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "LenovoDrivers",
+                             "displayName":  "PH - Lenovo Drivers",
+                             "currentVersion":  "5.07.0136",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "LogMeInRescueTechnicianConsole",
+                             "displayName":  "PH - LogMeIn Rescue Technician Console",
+                             "currentVersion":  "7.50.3549",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "Memurai",
+                             "displayName":  "PH - Memurai Developer",
+                             "currentVersion":  "4.1.2",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "MicrosoftAzureCLI",
+                             "displayName":  "PH - Microsoft Azure CLI",
+                             "currentVersion":  "2.77.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "MicrosoftAzureInformationProtection",
+                             "displayName":  "PH - Microsoft Azure Information Protection",
+                             "currentVersion":  "2.16.73.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "MongoDB",
+                             "displayName":  "PH - MongoDB",
+                             "currentVersion":  "8.2.2",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "MongoDB",
+                             "displayName":  "PH - MongoDB Shell",
+                             "currentVersion":  "2.5.7",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "Firefox",
+                             "displayName":  "PH - Mozilla Firefox",
+                             "currentVersion":  "142.0.1.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "MSTeams",
+                             "displayName":  "PH - MSTeams",
+                             "currentVersion":  "1.8.0.21151",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "NodeJS",
+                             "displayName":  "PH - Node.js 20.10.0",
+                             "currentVersion":  "20.10.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "NodeJS",
+                             "displayName":  "PH - Node.js 22.18.0",
+                             "currentVersion":  "22.18.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "NodeJS",
+                             "displayName":  "PH - Node.js 22.19.0",
+                             "currentVersion":  "22.19.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "NodeJS",
+                             "displayName":  "PH - Node.js 24.12.0",
+                             "currentVersion":  "24.12.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "NodeJS",
+                             "displayName":  "PH - Node.js 24.5.0",
+                             "currentVersion":  "24.5.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "NotepadPlusPlus",
+                             "displayName":  "PH - Notepad++",
+                             "currentVersion":  "8.5.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "PowerBI",
+                             "displayName":  "PH - Power BI",
+                             "currentVersion":  "2.149.1203.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "PuTTY",
+                             "displayName":  "PH - PuTTY",
+                             "currentVersion":  "0.78.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "RemoteDesktop",
+                             "displayName":  "PH - Remote Desktop",
+                             "currentVersion":  "1.2.6873.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "S3Browser",
+                             "displayName":  "PH - S3 Browser",
+                             "currentVersion":  "12.6.1",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "SSMS",
+                             "displayName":  "PH - SQL Server Manager Studio 22",
+                             "currentVersion":  "22.1.0",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "TrendMicroApexOne",
+                             "displayName":  "PH - Trend Micro Apex One",
+                             "currentVersion":  "14.0.20168",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "TrendMicroPasswordManager",
+                             "displayName":  "PH - Trend Micro Password Manager",
+                             "currentVersion":  "2.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "VLC",
+                             "displayName":  "PH - VLC media player",
+                             "currentVersion":  "3.0.18.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "WinDirStatPOC",
+                             "displayName":  "PH - WinDirStat - POC",
+                             "currentVersion":  "2.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "WinDirStat2POC",
+                             "displayName":  "PH - WinDirStat 2 - POC",
+                             "currentVersion":  "2.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "Windows11InstallationAssistantPOC",
+                             "displayName":  "PH - Windows 11 Installation Assistant - POC",
+                             "currentVersion":  "2.0.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "WindowsSubsystemforLinuxWSL25100",
+                             "displayName":  "PH - Windows Subsystem for Linux (WSL) 2.5.10.0",
+                             "currentVersion":  "2.5.10.0",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "WindowsSubsystemforLinuxWSLHelperTool",
+                             "displayName":  "PH - Windows Subsystem for Linux (WSL) Helper Tool",
+                             "currentVersion":  "1.13",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "WinRAR",
+                             "displayName":  "PH - WinRAR",
+                             "currentVersion":  "7.13",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         },
+                         {
+                             "name":  "WinSCP",
+                             "displayName":  "PH - WinSCP",
+                             "currentVersion":  "6.1",
+                             "enabled":  true,
+                             "checkCVEs":  false,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "Zoom",
+                             "displayName":  "PH - Zoom",
+                             "currentVersion":  "6.5.9933",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows MSI line-of-business app"
+                         },
+                         {
+                             "name":  "Zoom",
+                             "displayName":  "PH - Zoom Workplace",
+                             "currentVersion":  "6.6.23272",
+                             "enabled":  true,
+                             "checkCVEs":  true,
+                             "platform":  "Windows",
+                             "type":  "Windows app (Win32)"
+                         }
+                     ],
+    "thresholds":  {
+                       "notifyOnMajorUpdates":  true,
+                       "notifyOnMinorUpdates":  false,
+                       "notifyOnSecurityUpdates":  true
+                   }
+}

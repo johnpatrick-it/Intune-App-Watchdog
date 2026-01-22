@@ -1,0 +1,7 @@
+# Claude Code configuration
+.claude/
+
+# Runtime folders (generated during monitoring)
+Logs/
+State/
+Output/
